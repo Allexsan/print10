@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Будильник</string>
+    <string name="title1">Список дел</string>
+    <string name="some_id">07:30</string>
+    <string name="some_id1">8:00</string>
+    <string name="some_id2">Добавить будильник</string>
+    <string name="some_id3">Вечерний поход в кино</string>
+    <string name="list">List</string>
+    <string name="lis">List</string>
+    <string name="time">Alarm</string>
+    <string name="calend">Calendary</string>
+    <string name="setting1">Setting</string>
+    <string name="some_id4">Идем в кино с колеггами</string>
+    <string name="some1">10.02.2021</string>
+    <string name="some2">19:40</string>
+    <string name="some_id43">Забрать заказ Ozon</string>
+    <string name="some_i">Пункт выдачи улю Ленина, 103</string>
+    <string name="some_id436">Запись в автосервес</string>
+    <string name="some_i1">Сдать автомобиль в автосервес
+        на ул. Бисертскаяб д. 14. Замена масла</string>
+    <string name="some_id44">Добавить задачу</string>
+</resources>
